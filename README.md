@@ -16,8 +16,11 @@ The Network Intrusion Detection System (NIDS) project aims to identify and class
 ## Dataset
 - **Size**: 100,000+ rows and 1,527 columns
 - **Features**: Includes information such as IP addresses, TCP connections, and protocol usage.
+- **Note**: The dataset is confidential and cannot be provided
 
 ## Technologies Used
 - **Programming Languages**: Python
 - **Libraries**: Scikit-learn, TensorFlow, Pandas, NumPy
 - **Techniques**: PCA, Machine Learning, Deep Learning
+
+- Data set is confdential so it is not provided.
